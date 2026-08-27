@@ -1,0 +1,1 @@
+Metadata følger Norsk metadatastandard og hentes fra Geonorge.

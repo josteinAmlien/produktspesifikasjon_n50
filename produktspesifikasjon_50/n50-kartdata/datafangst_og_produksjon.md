@@ -1,0 +1,1 @@
+Beskriv prosessen for innsamling og produksjon av data.

@@ -1,0 +1,1 @@
+Datamodellen er definert i SOSI-modellregisteret. Diagrammene under er generert automatisk fra UML-modellen.
