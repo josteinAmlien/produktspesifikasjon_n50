@@ -23,8 +23,8 @@ logo: "https://register.geonorge.no/data/organizations/971040238_Kartverket_lite
 **Tidsmessig utstrekning**:
 
 - **Tidsperiode**:
-  - **Fra**: 2026-08-22
-  - **Til**: 2026-08-22
+  - **Fra**: 2026-08-29
+  - **Til**: 2026-08-29
 
 ## Om spesifikasjonen
 Denne produktspesifikasjonen beskriver datasettet og hvordan det skal forstås av brukere som skal lese, produsere eller utveksle data.
@@ -40,7 +40,7 @@ Første versjon.
 
 > **Denne versjonen av produktspesifikasjonen:** <br>
 > **Opprettet dato:** <br>
-> **Endret dato:** 2026-08-22<br>
+> **Endret dato:** 2026-08-29<br>
 > **Språk:** nor<br>
 > **Kontaktinformasjon:** Kartverket, [kundesenter@kartverket.no](mailto:kundesenter@kartverket.no)
 
@@ -249,7 +249,7 @@ Metadata følger Norsk metadatastandard og hentes fra Geonorge.
 
 **Metadatastandardversjon**: 2003
 
-**Metadatadato**: 2026-08-26
+**Metadatadato**: 2026-09-01
 
 **språk**: nor
 
@@ -272,3 +272,5 @@ Metadata følger Norsk metadatastandard og hentes fra Geonorge.
 | Versjon | Dato | Endring |
 |---------|------|---------|
 Trenger du hjelp til å laste ned og ta i bruk Kartverkets data og tjenester? På kartverket.no finner du tips og veiledning.
+
+- **Produktark:** [https://register.geonorge.no/produktark/n50-kartdata](https://register.geonorge.no/produktark/n50-kartdata)
